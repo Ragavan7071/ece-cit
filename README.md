@@ -1,15 +1,7 @@
 # Tutorials
-The final folder contains code and submission details for final round,along with the tutorial video(final.mp4) to run that code.
+The final round folder contains code and submission details for final round,along with the tutorial video(final.mp4) to run that code.
 
 Similarly,the prelims folder contains code and submission details for prelims round,along with the tutorial video(adalove.mp4) to run that code. 
-# Requirements for prelims
-# colab
-Use google colab which provoides free gpu to run this code
-
-This code is designed to run in the colab
-# Test datset
-we have to give the dataset path for poem generation in the 2nd cell,I had given my test datset in the repository(test.txt) you can download it.
-
 # Requirements for final
 # colab
 Use google colab which provoides free gpu to run this code
@@ -29,6 +21,24 @@ Since the object detection weights are limited to only 80 objects ,some photos c
 Please refer names-->coco.names for giving input images. 
 
 The gallery folder contains input images you can also download it for testing the code.
+# Requirements for prelims
+# colab
+Use google colab which provoides free gpu to run this code
 
+This code is designed to run in the colab
+# Test dataset
+we have to give the dataset path for poem generation in the 2nd cell,I had given my test dataset in the repository(test.txt) you can download it.
+# step by step procedure for prelims
+step1:upload the test dataset in colab(you can get the dateaset from github repo(test.txt))
+
+step2:place the file path of dataset in the 2nd cell
+
+step3:runtime-->run all (or)ctrl+F9
+
+step4:the final cell is our output cell ,enter the input string 
+
+step5:the output poem is generated
+
+step6:for using api(telegram) function read the txt file in prelims folder 
 # Team details
 The team details.docx contains the details and work of each team members
