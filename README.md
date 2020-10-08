@@ -1,4 +1,8 @@
 # Requirements for final
+# colab
+Use google colab which provoides free gpu to run this code
+
+this code is designed to run in the colab
 # yolov3 weights
 It will be downloades auomatically while running the code,it will take around 237 mb.
 
