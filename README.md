@@ -1,3 +1,13 @@
+# Tutorial
+The final folder contains code and subimission details for final round,along with the tutorial video(final.mp4) to run that code.
+
+similarly,the prelims folder contains code and subimission details for prelims round,along with the tutorial video(adalove.mp4) to run that code. 
+# Requirements for prelims
+# colab
+Use google colab which provoides free gpu to run this code
+# Test datset
+The test dataset for poem generation is fetched from the cloned github repository.
+
 # Requirements for final
 # colab
 Use google colab which provoides free gpu to run this code
