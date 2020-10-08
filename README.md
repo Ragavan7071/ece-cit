@@ -21,15 +21,29 @@ Since the object detection weights are limited to only 80 objects ,some photos c
 Please refer names-->coco.names for giving input images. 
 
 The gallery folder contains input images you can also download it for testing the code.
+# step by step procedure for final round
+step1:click on runtime-->run all (or) ctrl+F9
+
+step2:the yolov3 weights are downloaded automatically,which is the pretrained weights for about 80 objects.
+
+in the 3rd cell github repository is coned for fetching the dataset
+
+step3:the weights path is referred in the 4th cell
+
+step4:once the weights are downloaded the code excecute within few seconds
+
+step5:download the input images from github repository-->gallery folder
+
+step6:in the output cell upload the input image ,the output poem will be generated 
 # Requirements for prelims
 # colab
 Use google colab which provoides free gpu to run this code
 
 This code is designed to run in the colab
 # Test dataset
-we have to give the dataset path for poem generation in the 2nd cell,I had given my test dataset in the repository(test.txt) you can download it.
+we have to give the dataset path for poem generation in the 2nd cell,I had given my dataset in the repository(test.txt) you can download it.
 # step by step procedure for prelims
-step1:upload the test dataset in colab(you can get the dateaset from github repo(test.txt))
+step1:upload the input dataset for sonnet in colab(you can get the dateaset from github repo(test.txt))
 
 step2:place the file path of dataset in the 2nd cell
 
@@ -39,6 +53,6 @@ step4:the final cell is our output cell ,enter the input string
 
 step5:the output poem is generated
 
-step6:for using api(telegram) function read the txt file in prelims folder 
+step6:for using api(telegram) function read the readme.txt file in prelims folder and also refer the tutorial video in it.
 # Team details
 The team details.docx contains the details and work of each team members
