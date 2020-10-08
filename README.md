@@ -1,7 +1,7 @@
 # Tutorials
-The final folder contains code and subimission details for final round,along with the tutorial video(final.mp4) to run that code.
+The final folder contains code and submission details for final round,along with the tutorial video(final.mp4) to run that code.
 
-Similarly,the prelims folder contains code and subimission details for prelims round,along with the tutorial video(adalove.mp4) to run that code. 
+Similarly,the prelims folder contains code and submission details for prelims round,along with the tutorial video(adalove.mp4) to run that code. 
 # Requirements for prelims
 # colab
 Use google colab which provoides free gpu to run this code
@@ -26,7 +26,7 @@ The test dataset for poem generation is fetched from the cloned github repositor
 The file path is reffered in 7th cell
 # Gallery
 Since the object detection weights are limited to only 80 objects ,some photos cannot recoganized.
-Please refer names>coco.names for giving input images. 
+Please refer names-->coco.names for giving input images. 
 
 The gallery folder contains input images you can also download it for testing the code.
 
