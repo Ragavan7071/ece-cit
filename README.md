@@ -16,19 +16,19 @@ Use google colab which provoides free gpu to run this code
 
 This code is designed to run in the colab
 # yolov3 weights
-It will be downloades auomatically while running the code,it will take around 237 mb.
+It will be downloaded automatically while runing the code,it will take around 237 mb.
 
-The file path is reffered in the 4th cell,if you want to run on your own image weights you can change the path according to the weights file path
+The file path is referred in the 4th cell,if you want to run on your own image weights you can change the path according to the weights file path
 
 The configuration for that weights are available in the repository(detect.cfg)it is a standard object detection configuration.it is also cloned from the repository while runing the code
 # Test datset
 The test dataset for poem generation is fetched from the cloned github repository.
-The file path is reffered in 7th cell
+The file path is referred in 7th cell
 # Gallery
-Since the object detection weights are limited to only 80 objects ,some photos cannot recoganized.
+Since the object detection weights are limited to only 80 objects ,some photos cannot recognized.
 Please refer names-->coco.names for giving input images. 
 
 The gallery folder contains input images you can also download it for testing the code.
 
 # Team details
-The team deatails.docx contains the details and work of each team members
+The team details.docx contains the details and work of each team members
