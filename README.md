@@ -30,5 +30,5 @@ Please refer names>coco.names for giving input images.
 
 The gallery folder contains input images you can also download it for testing the code.
 
-# Team deatails
+# Team details
 The team deatails.docx contains the details and work of each team members
