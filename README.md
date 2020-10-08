@@ -5,6 +5,8 @@ Similarly,the prelims folder contains code and subimission details for prelims r
 # Requirements for prelims
 # colab
 Use google colab which provoides free gpu to run this code
+
+This code is designed to run in the colab
 # Test datset
 The test dataset for poem generation is fetched from the cloned github repository.
 
@@ -12,7 +14,7 @@ The test dataset for poem generation is fetched from the cloned github repositor
 # colab
 Use google colab which provoides free gpu to run this code
 
-this code is designed to run in the colab
+This code is designed to run in the colab
 # yolov3 weights
 It will be downloades auomatically while running the code,it will take around 237 mb.
 
