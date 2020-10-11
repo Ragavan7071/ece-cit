@@ -56,3 +56,6 @@ step 5:The output poem is generated
 step 6:For using api(telegram) function read the readme.txt file in prelims folder and also refer the tutorial video in it.
 # Team details
 The team details.docx contains the details and work of each team members
+
+#Inovation
+The (final_poetry genrator with audio.ipyb)is similar to the final round model,but has an advantage,it no only a sonnet which gives text output it also narrate the poem with audio .
