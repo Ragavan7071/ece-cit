@@ -57,5 +57,5 @@ step 6:For using api(telegram) function read the readme.txt file in prelims fold
 # Team details
 The team details.docx contains the details and work of each team members
 
-#Inovation
+# Inovation
 The (final_poetry genrator with audio.ipyb)is similar to the final round model,but has an advantage,it no only a sonnet which gives text output it also narrate the poem with audio .
